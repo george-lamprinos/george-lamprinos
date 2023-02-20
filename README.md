@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!--
-
+https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783
 https://github.com/kyechan99/capsule-render
 
 **george-lamprinos/george-lamprinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
