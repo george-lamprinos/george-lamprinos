@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!&fontAlign=80&fontAlignY=40&color=merko)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!&fontAlign=80&fontAlignY=40&color=gruvbox_light)
 
 <!--
 **george-lamprinos/george-lamprinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
