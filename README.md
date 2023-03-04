@@ -1,5 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!&fontAlign=80&fontAlignY=40&color=gradient)
 
+[![Carehouse Website CI/CD](https://github.com/george-lamprinos/carehouse-website/actions/workflows/azure-static-web-apps-kind-sky-0b74c5a03.yml/badge.svg?branch=main)](https://github.com/george-lamprinos/carehouse-website/actions/workflows/azure-static-web-apps-kind-sky-0b74c5a03.yml)
+
 <!--
 https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783
 https://github.com/kyechan99/capsule-render
